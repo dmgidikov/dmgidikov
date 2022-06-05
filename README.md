@@ -15,7 +15,9 @@
   </a>
 </div>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=dmgidikov&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **dmgidikov/dmgidikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
