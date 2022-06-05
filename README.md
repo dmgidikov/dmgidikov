@@ -17,9 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=dmgidikov&style=flat-square&color=blue" alt=""/>
 
-<!--
-**dmgidikov/dmgidikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -31,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
