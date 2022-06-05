@@ -1,7 +1,7 @@
-<h1>
+<h2>
   Hi there, I'm Deyan 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
+</h2>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/deyan-gidikov-a4878a212/">
