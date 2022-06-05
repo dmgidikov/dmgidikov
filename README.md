@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=dmgidikov&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=dmgidikov&color=blue" alt=""/>
 
 <div>  
 Quick thing for me:
