@@ -1,5 +1,5 @@
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
-https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white
 https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 
 <!--
