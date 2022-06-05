@@ -1,4 +1,6 @@
-https://img.shields.io/badge/LinkedIn-blue
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
 
 <!--
 **dmgidikov/dmgidikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
