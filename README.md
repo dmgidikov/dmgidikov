@@ -17,11 +17,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=dmgidikov&style=flat-square&color=blue" alt=""/>
 
-<div>
-  
+<div>  
 Quick thing for me:
 
 - 🌱 I’m currently walking on the Software Engineering road. 
 - 💬 Ask me about anything. It's Paid! 
 - ⚡ Fun fact: The next most dangerous hacker!
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmgidikov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
