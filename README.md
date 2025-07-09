@@ -29,7 +29,7 @@ I'm an aspiring **C# Full-Stack Developer** passionate about building end-to-end
 - **Entity Framework Core**
 - **SQL Server**
 - **Git & GitHub**
-- 
+  
 🔍 Always exploring, always improving. I'm open to junior roles, collaborations, or just exchanging ideas with fellow devs and tech thinkers.
 
 <div align="center"" >
