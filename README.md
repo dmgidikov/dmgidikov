@@ -16,7 +16,7 @@
       <img src="https://komarev.com/ghpvc/?username=dmgidikov&color=blue" alt=""/>
 </div>
 
-
+<div>
 I'm an aspiring **C# Full-Stack Developer** passionate about building end-to-end web applications using the rich .NET ecosystem.
 
 🔧 I enjoy "closing the circle" with .NET — using **Razor Pages** for structured server-side rendering, **Blazor** to replace JavaScript in the browser, and **ASP.NET Core** APIs to power responsive and modern web apps.
@@ -29,8 +29,7 @@ I'm an aspiring **C# Full-Stack Developer** passionate about building end-to-end
 - **Entity Framework Core**
 - **SQL Server**
 - **Git & GitHub**
-  
-🔍 Always exploring, always improving. I'm open to junior roles, collaborations, or just exchanging ideas with fellow devs and tech thinkers.
+  </div>
 
 <div align="center"" >
       <img align="center"" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -39,3 +38,5 @@ I'm an aspiring **C# Full-Stack Developer** passionate about building end-to-end
 <div align="center">      
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmgidikov&show_icons=true&locale=en&layout=compact" alt="dmgidikov" />
 </div>  
+
+🔍 Always exploring, always improving. I'm open to junior roles, collaborations, or just exchanging ideas with fellow devs and tech thinkers.
