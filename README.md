@@ -24,7 +24,7 @@ I'm an aspiring **C# Full-Stack Developer** passionate about building end-to-end
 🧠 I'm constantly learning and experimenting with:
 - **.NET 6/8**
 - **ASP.NET Core (MVC & Web API)**
-- **Razor Pages**
+- **Razor View Engine**
 - **Blazor (Server & WASM)**
 - **Entity Framework Core**
 - **SQL Server**
