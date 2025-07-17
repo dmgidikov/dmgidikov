@@ -19,7 +19,7 @@
 <div>
 I'm an aspiring **C# Full-Stack Developer** passionate about building end-to-end web applications using the rich .NET ecosystem.
 
-🔧 I enjoy "closing the circle" with .NET — using **Razor Pages** for structured server-side rendering, **Blazor** to replace JavaScript in the browser, and **ASP.NET Core** APIs to power responsive and modern web apps.
+🔧 I enjoy "closing the circle" with .NET — using **Razor View Engine** for structured server-side rendering, **Blazor** to replace JavaScript in the browser, and **ASP.NET Core** APIs to power responsive and modern web apps.
 
 🧠 I'm constantly learning and experimenting with:
 - **.NET 6/8**
