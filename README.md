@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/DGidikov">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-black?logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
       <img src="https://komarev.com/ghpvc/?username=dmgidikov&color=blue" alt=""/>
 </div>
